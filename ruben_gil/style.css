@@ -1,0 +1,30 @@
+form {
+	text-align: center;
+	margin: 10px;
+}
+#search {
+	width: 200px;
+	height: 40px;
+	border: 1px solid #D9D9D9;
+	border-radius: 3px;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+#submit {
+	width: 80px;
+	height: 42px;
+	display: inline;
+	border: 1px solid black;
+	border-radius: 3px;
+	font-size: 16px;
+	font-family: helvetica;
+	color: white;
+	background-color: #3B5998;
+
+}
+
+img {
+	width: 400px;
+	margin: 10px 2px;
+}
